@@ -1,11 +1,21 @@
 <!-- PERFIL DE GITHUB – DUBAN FELIPE URIBE TEJADA -->
 
 <div align="center">
-  <h1>Hola 👋🏽, soy Duban Felipe</h1>
+  <h1>Hola 👋🏽, soy Duvan Felipe</h1>
   <p><em>Estudiante de ADSO en formación</em></p>
 </div>
 
-Estudiante de sexto trimestre en Análisis y Desarrollo de Software, amante de ver cómo una idea pasa de “¿y si…?” a “¡funciona!”. Con experiencia académica en Java, SQL, HTML, CSS, JavaScript y PHP con Laravel, aplicando POO, bases de datos y metodologías ágiles como SCRUM en proyectos académicos donde el café y el git commit van de la mano. Aunque aún no tengo experiencia laboral formal, sí tengo ganas de aprender, listo para aportar desde el primer día como desarrollador junior, practicante o pasante. Soy una persona empática, proactiva y carismática, con facilidad para trabajar en equipo, resolver problemas y adaptarme rápido (incluidos bugs inesperados 😅). Aquí encontrarás proyectos hechos con dedicación, aprendizaje constante y muchas líneas de código con propósito. Si buscas a alguien con actitud, energía y hambre de crecer… probablemente ya nos llevemos bien 😄
+Estudiante de sexto trimestre en **Análisis y Desarrollo de Software**, apasionado por transformar ideas en software funcional. Me encanta ver cómo un simple "¿y si…?" se convierte en "¡funciona!" gracias al código, el modelado de datos y la colaboración.
+
+Tengo experiencia académica en **Java, SQL, PHP con Laravel, HTML/CSS y JavaScript**, aplicando **POO, bases de datos relacionales y metodologías ágiles (SCRUM)** en proyectos reales. Aunque aún no cuento con experiencia laboral formal, sí tengo **actitud, energía y hambre de crecer**. Soy proactivo, empático, con facilidad para el trabajo en equipo y resolución de problemas —incluyendo bugs inesperados 😅.
+
+🔍 **Mi proyecto principal**:  
+👉 **[DUFEX](https://github.com/DuvanchoU/sistema-order-rae)** — Sistema de gestión comercial para pymes del sector muebles, con control de inventario, ventas, compras, producción y permisos por roles.
+
+Aquí encontrarás proyectos hechos con dedicación, aprendizaje constante y código con propósito.  
+**Si buscas a alguien listo para aportar desde el primer día como practicante, pasante o junior… ¡probablemente ya nos llevemos bien!** 😄
+
+---
 
 ## 💻 Tecnologías que uso
 <div align="center">
@@ -22,7 +32,7 @@ Estudiante de sexto trimestre en Análisis y Desarrollo de Software, amante de v
   <a href="mailto:duvanfuribe@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white " alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/duvan-felipe-uribe-758303359/ ">
+  <a href="https://www.linkedin.com/in/duban-felipe-uribe-758303359/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white " alt="LinkedIn"/>
   </a>
 </div>
