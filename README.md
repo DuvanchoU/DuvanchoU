@@ -1,29 +1,41 @@
-# Duvan Felipe Uribe Tejada
+<h1 align="center">Duvan Felipe Uribe Tejada</h1>
 
-🎓 Estudiante de **Análisis y Desarrollo de Software – SENA**
+<p align="center">
+📍 Bogotá D.C – Colombia
+</p>
 
-Desarrollador en formación con enfoque en **backend y desarrollo web**.  
-He trabajado con **PHP (Laravel)**, **Java (Spring Boot)**, **HTML, CSS** y actualmente estoy aprendiendo **Python**.  
+<p align="center">
+🎓 Estudiante de Análisis y Desarrollo de Software – SENA
+</p>
+
+<p align="center">
+Desarrollador en formación con enfoque en <b>backend y desarrollo web</b>.<br>
+He trabajado con <b>PHP (Laravel)</b>, <b>Java (Spring Boot)</b>, <b>HTML</b>, <b>CSS</b> y actualmente estoy aprendiendo <b>Python</b>.<br>
 Me gusta aprender creando proyectos reales y construir soluciones claras, funcionales y bien estructuradas.
+</p>
 
 ---
 
-## 🚀 Tecnologías
+<h2 align="center">🚀 Tecnologías</h2>
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,php,laravel,python,html,css" />
 </p>
 
 ---
 
-## 🔗 Portafolio
+<h2 align="center">🌐 Conecta conmigo</h2>
 
-👉 https://www.notion.so/Duvan-Felipe-Uribe-Portafolio-T-cnico-2e851ff5df7b809582fef8d7de5eb413
+<p align="center">
+  <a href="https://www.notion.so/Duvan-Felipe-Uribe-Portafolio-T-cnico-2e851ff5df7b809582fef8d7de5eb413" target="_blank">
+    <img src="https://skillicons.dev/icons?i=notion" height="45"/>
+  </a>
 
-## 💼 LinkedIn
+  <a href="https://www.linkedin.com/in/duvan-felipe-uribe-758303359/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  </a>
 
-👉 https://www.linkedin.com/in/duvan-felipe-uribe-758303359/
-
-## 📧 Contacto
-
-📩 duvanfuribe@gmail.com
+  <a href="mailto:duvanfuribe@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+  </a>
+</p>
