@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-Desarrollador en formación con enfoque en <b>backend y desarrollo web</b>, carismático,.<br>
+Desarrollador en formación con enfoque en <b>backend y desarrollo web</b>, carismático, empático.<br>
 He trabajado con <b>PHP (Laravel)</b>, <b>Java (Spring Boot)</b>, <b>HTML</b>, <b>CSS</b> y actualmente estoy aprendiendo <b>Python</b>.<br>
 Me gusta aprender creando proyectos reales y construir soluciones claras, funcionales y bien estructuradas.
 </p>
@@ -51,6 +51,8 @@ Me gusta aprender creando proyectos reales y construir soluciones claras, funcio
     <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
   </a>
 </p>
+
+--- 
 
 <p align="center">
 Gracias por pasarte por mi perfil — Prometo más commits que bugs… 😄
